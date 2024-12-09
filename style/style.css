@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(85, 84, 84);
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.nabidka{
+    background-color: rgb(150, 77, 77);
+    border-radius: 10px;
+
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+}
+
+#uctenka{
+    
+    background-color: white;
+}
+
+.zmrd{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    
+}
+
+.curak{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    
+}
+
+#kasa{
+    font-size: 50px;
+}
